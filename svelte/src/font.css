@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Digital-7';
+	src: url('../public/fonts/digital.ttf') format('ttf');
+}
+
+@font-face {
+	font-family: 'Digital Dismay';
+	src: url('../public/fonts/Digital Dismay.otf') format('otf')
+}
